@@ -1,6 +1,6 @@
 # Marlon Garcia – DevOps & Python Developer
 
-Welcome to my GitHub! I'm a passionate backend and DevOps developer with a focus on cloud-native architectures, Python microservices, and scalable infrastructure. I enjoy building practical solutions that streamline workflows and optimize processes, and I love exploring new technologies that challenge me to grow.
+Welcome to my GitHub! I'm a passionate backend and DevOps developer focused on **cloud-native architectures**, **Python microservices**, and **scalable infrastructure**. I enjoy building practical solutions that streamline workflows and optimize processes, and I’m constantly exploring new technologies to challenge myself.
 
 ---
 
@@ -10,56 +10,53 @@ Welcome to my GitHub! I'm a passionate backend and DevOps developer with a focus
 - **Location:** Spain  
 - **Role:** DevOps / Python Developer  
 - **Current Focus:** Kubernetes, AWS, Azure, and building robust microservices  
-- **Languages & Tools:** Python, FastAPI, Celery, Docker, GitLab CI/CD, GCP(AWS, Azure in minor degree).
-- **Interests:** Cloud-native development, API design (REST & exploring gRPC), system automation.
-
-I approach programming with a practical mindset: write code that works, is maintainable, and solves real-world problems.  
+- **Interests:** Cloud-native development, API design (REST & gRPC), system automation, MCP Protocol. 
 
 ---
 
-## 💻 Skills & Expertise
+## 💻 Skills & Tools
 
 ### Programming & Development
-- Python backend development
-- Microservices architecture
-- REST APIs with FastAPI
-- Event-driven systems using Celery
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-Intermediate-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Celery](https://img.shields.io/badge/Celery-Intermediate-0088CC?style=for-the-badge&logo=celery&logoColor=white) 
+![Pydantic](https://img.shields.io/badge/Pydantic-Intermediate-FF5733?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ### DevOps & Cloud
-- Docker & containerization
-- Kubernetes & GKE (cloud-agnostic focus)
-- CI/CD pipelines (GitLab)
-- Cloud platforms: GCP, AWS, Azure
-- Monitoring, logging, and error handling strategies
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-Intermediate-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Learning-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Associate-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### Data & Automation
-- Databricks workflows
-- Cloud data storage (S3, ADLS)
-- Automated task orchestration
-- Pydantic & data validation
+![Databricks](https://img.shields.io/badge/Databricks-Intermediate-F58025?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Intermediate-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
 ## 🔧 Projects & Highlights
 
-Here are some example areas I work on:
+- **API Microservices:** Building scalable Python microservices with event-driven communication  
+- **Cloud Automation:** Automating deployment, monitoring, and infrastructure provisioning using Kubernetes and serverless services  
+- **Data Engineering Support:** Creating workflows for syncing and validating data across cloud platforms  
 
-- **API Microservices:** Building scalable Python microservices with event-driven communication.  
-- **Cloud Automation:** Automating deployment, monitoring, and infrastructure provisioning using Kubernetes and serverless services.  
-- **Data Engineering Support:** Creating workflows for syncing and validating data across cloud platforms.  
-- **Financial Tools:** Personal projects exploring Python-based investment calculators and portfolio simulations.  
-
-> I often explore how software design meets real-world business cases, optimizing both code and workflow efficiency.
+> I focus on code that **works ✅**, is **maintainable 🛠️**, and solves **real-world problems 🌎** efficiently.  
+> **Moto:** Make it **work ⚡**, make it **right ✔️**, make it **fast 🚀**.
 
 ---
 
 ## 🌱 Learning & Growth
-- Currently deepening my Kubernetes skills and cloud-native architecture practices.
-- Exploring AWS and Azure as cloud-agnostic solutions.
-- Continuing to improve backend code efficiency, monitoring, and testing practices.
-- Experimenting with gRPC and alternative API frameworks.
+
+- Mastering Kubernetes and cloud-native architecture best practices  
+- Exploring AWS and Azure as cloud-agnostic solutions  
+- Improving backend code efficiency, observability, and testing  
+- Experimenting with gRPC and alternative API frameworks  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/marlon-garcia](https://www.linkedin.com/in/marlon-gg/)  
+- LinkedIn: [linkedin.com/in/marlon-garcia](https://www.linkedin.com/in/marlon-gg/)
